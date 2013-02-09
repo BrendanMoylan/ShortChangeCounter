@@ -1,0 +1,11 @@
+C:\Users\Tarik\AppData\Local\Temporary Projects\ChangeCounter\bin\Debug\ChangeCounter.exe
+C:\Users\Tarik\AppData\Local\Temporary Projects\ChangeCounter\bin\Debug\ChangeCounter.pdb
+C:\Users\Tarik\AppData\Local\Temporary Projects\ChangeCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarik\AppData\Local\Temporary Projects\ChangeCounter\obj\x86\Debug\ChangeCounter.Form1.resources
+C:\Users\Tarik\AppData\Local\Temporary Projects\ChangeCounter\obj\x86\Debug\ChangeCounter.Properties.Resources.resources
+C:\Users\Tarik\AppData\Local\Temporary Projects\ChangeCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tarik\AppData\Local\Temporary Projects\ChangeCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tarik\AppData\Local\Temporary Projects\ChangeCounter\obj\x86\Debug\ChangeCounter.exe
+C:\Users\Tarik\AppData\Local\Temporary Projects\ChangeCounter\obj\x86\Debug\ChangeCounter.pdb
+C:\Users\Tarik\documents\visual studio 2010\Projects\ChangeCounter\ChangeCounter\obj\x86\Debug\ChangeCounter.exe
+C:\Users\Tarik\documents\visual studio 2010\Projects\ChangeCounter\ChangeCounter\obj\x86\Debug\ChangeCounter.pdb
